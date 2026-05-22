@@ -1,47 +1,136 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "MISO",
+  "tagline": "Japanese-American on Foothill Blvd, Glendale.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · FOOTHILL BLVD · JAPANESE-AMERICAN · 197 REVIEWS",
+    "heading": "The Foothill miso shop.",
+    "subheading": "A small Japanese-American kitchen on Foothill Boulevard in Glendale. Ramen, donburi, katsu, salmon plates, and the kind of miso soup that's been simmering since open. Dine in, takeout, or call ahead.",
+    "ctaText": "Call ahead",
+    "ctaLink": "tel:8183697711",
+    "image": "https://images.unsplash.com/photo-1607330289024-1535c6b4e1c1?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "the kitchen",
+    "heading": "Small kitchen. Honest food.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "MISO is a small Japanese-American restaurant that's been on Foothill Boulevard for years. One kitchen, a short menu, no shortcuts. The miso soup base is built from scratch every morning and simmers through service.",
+      "We serve ramen (tonkotsu, shoyu, miso, spicy), donburi bowls (chicken katsu, tonkatsu, beef, salmon), curry rice plates, and a short list of starters. Lunch portions are smaller and priced for it.",
+      "Open six days a week. Closed Sunday. Dine in, takeout, or call ahead. The 197 reviews come from regulars who eat here on their lunch break."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Tonkotsu Ramen",
+      "description": "Twelve-hour pork bone broth, thin noodles, chashu, soft egg, scallion, nori. The bowl regulars order.",
+      "price": "$15"
+    },
+    {
+      "title": "Miso Ramen",
+      "description": "Red miso broth, ground pork, corn, butter, bean sprouts, soft egg. House sauce blend.",
+      "price": "$15"
+    },
+    {
+      "title": "Chicken Katsu Don",
+      "description": "Panko chicken cutlet, egg-and-onion bind, dashi, rice, scallion. The lunchtime regular's plate.",
+      "price": "$14"
+    },
+    {
+      "title": "Salmon Teriyaki",
+      "description": "Atlantic salmon, house teriyaki, rice, miso soup, pickle. Lighter than the ramen, just as filling.",
+      "price": "$17"
+    },
+    {
+      "title": "Curry Rice",
+      "description": "Slow-cooked Japanese curry, beef or chicken katsu, rice, pickled ginger. Comfort food.",
+      "price": "$13"
+    },
+    {
+      "title": "Gyoza · 6 pc",
+      "description": "Pan-fried pork-and-cabbage dumplings, ponzu, chili oil. Best ordered to share.",
+      "price": "$8"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Kazu I.",
+      "rating": 4,
+      "context": "Weekly lunch regular",
+      "text": "MISO is the only ramen I trust between Glendale and Pasadena. The tonkotsu broth is silky, the chashu actually has fat marbling, and the egg yolk is the right shade of orange. I'm in twice a week."
+    },
+    {
+      "name": "Megan P.",
+      "rating": 5,
+      "context": "First-time customer",
+      "text": "Walked in cold on a Tuesday for chicken katsu don and was eating one of the best Japanese-American lunches I've had in LA twelve minutes later. The pickle on the side made the plate."
+    },
+    {
+      "name": "Daniel R.",
+      "rating": 4,
+      "context": "Family-of-three customer",
+      "text": "Bring the kids here for ramen night every Friday. They split a gyoza and tear through their bowls. Service is fast, plates are honest, and the bill is reasonable for what hits the table."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 369-7711",
+    "email": "hello@misoglendale.com",
+    "address": "3839 Foothill Blvd, Glendale, CA 91214",
+    "mapEmbedQuery": "MISO, 3839 Foothill Blvd, Glendale, CA 91214",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "11:00 AM – 9:00 PM",
+      "Tuesday": "11:00 AM – 9:00 PM",
+      "Wednesday": "11:00 AM – 9:00 PM",
+      "Thursday": "11:00 AM – 9:00 PM",
+      "Friday": "11:00 AM – 10:00 PM",
+      "Saturday": "11:00 AM – 10:00 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "MISO — Glendale Japanese-American on Foothill Blvd",
+    "description": "A small Japanese-American kitchen on Foothill Boulevard, Glendale. Ramen, donburi, katsu, curry, salmon plates. Dine in or takeout. Open six days.",
+    "keywords": [
+      "Glendale Japanese restaurant",
+      "Foothill Blvd ramen",
+      "MISO Glendale",
+      "Glendale tonkotsu",
+      "Glendale katsu don"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#0A0A0A",
+    "accentColor": "#A16207",
+    "fontFamily": "spacemono-inter"
+  },
+  "designSystem": {
+    "searchQuery": "japanese minimal teahouse zen ink wash midnight indigo",
+    "styleName": "Brutalist Mono Editorial (ink + gold)",
+    "pattern": "Hero left + Menu grid + Reviews tiles + CTA",
+    "palette": {
+      "primary": "#0A0A0A",
+      "secondary": "#171717",
+      "cta": "#0A0A0A",
+      "accent": "#A16207",
+      "background": "#FAFAFA",
+      "text": "#0A0A0A",
+      "muted": "#525252",
+      "border": "#0A0A0A",
+      "surface": "#E5E5E5"
+    },
+    "typography": {
+      "heading": "Inter Black",
+      "body": "Inter",
+      "label": "Space Mono",
+      "mood": "Brutalist editorial mono labels, Inter Black hero display tracking-tighter, paper white + ink black + gold accent — Japanese-American minimalism"
+    },
+    "moves": [
+      "Inter Black 900 tracking-tighter leading-[0.85] for massive hero — first ultra-tight Inter Black hero",
+      "Space Mono for all labels with // and [00] bracket notation — brutalist programming aesthetic",
+      "Grid-bg subtle 64px line grid behind hero — architectural blueprint feel",
+      "Ink + paper + gold palette — no warm browns, full editorial contrast",
+      "Numbered paragraph layout in about section with mono index — editorial column treatment",
+      "Grayscale filter on map embed — visual unity with monochrome palette",
+      "Dashed-row hours table with mono day labels — terminal/console feel"
+    ]
   }
 }
